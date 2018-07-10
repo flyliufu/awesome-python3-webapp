@@ -1,0 +1,7 @@
+lib/
+.idea/
+pip-selfcheck.json
+.Python
+venv/
+bin/
+include/
